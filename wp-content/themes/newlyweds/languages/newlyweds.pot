@@ -1,0 +1,328 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Newlyweds\n"
+"POT-Creation-Date: 2017-11-17 12:29+0100\n"
+"PO-Revision-Date: 2017-09-09 22:00+0200\n"
+"Last-Translator: Alina Sava <admin@glam.ink>\n"
+"Language-Team: Alina Sava <admin@glam.ink>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:17
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:21
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#: 404.php:33
+msgid "Most Used Categories"
+msgstr ""
+
+#. translators: %1$s: smiley
+#: 404.php:51
+#, php-format
+msgid "Try looking in the monthly archives. %1$s"
+msgstr ""
+
+#. translators: %s: post title
+#: comments.php:33
+#, php-format
+msgctxt "comments title"
+msgid "One Reply to &ldquo;%s&rdquo;"
+msgstr ""
+
+#: comments.php:38
+#, php-format
+msgctxt "comments title"
+msgid "%1$s Reply to &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s Replies to &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:53 comments.php:74
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:56 comments.php:77
+msgid "Older Comments"
+msgstr ""
+
+#: comments.php:57 comments.php:78
+msgid "Newer Comments"
+msgstr ""
+
+#: comments.php:91
+msgid "Comments are closed."
+msgstr ""
+
+#: footer.php:56
+#, php-format
+msgid "Newlyweds Theme by %2$s"
+msgstr ""
+
+#: functions.php:47
+msgid "Primary"
+msgstr ""
+
+#: functions.php:107
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:116
+msgid "Sidebar Footer"
+msgstr ""
+
+#: functions.php:125
+msgid "Sidebar Shop"
+msgstr ""
+
+#: functions.php:208
+msgid "Weeks"
+msgstr ""
+
+#: functions.php:224
+msgid "Days"
+msgstr ""
+
+#: functions.php:240
+msgid "Hours"
+msgstr ""
+
+#: functions.php:256
+msgid "Minutes"
+msgstr ""
+
+#: functions.php:272
+msgid "Seconds"
+msgstr ""
+
+#: header.php:14
+msgid "Skip to content"
+msgstr ""
+
+#: header.php:76 inc/customizer.php:211
+msgid "Events"
+msgstr ""
+
+#: inc/customizer.php:20
+msgid "Bride and Groom Images"
+msgstr ""
+
+#: inc/customizer.php:37
+msgid "Image Left"
+msgstr ""
+
+#: inc/customizer.php:60
+msgid "Image Right"
+msgstr ""
+
+#: inc/customizer.php:75
+msgid "Countdown"
+msgstr ""
+
+#: inc/customizer.php:89
+msgid "Countdown date and time"
+msgstr ""
+
+#: inc/customizer.php:110
+msgid "Weeks translation"
+msgstr ""
+
+#: inc/customizer.php:132
+msgid "Days translation"
+msgstr ""
+
+#: inc/customizer.php:154
+msgid "Hours translation"
+msgstr ""
+
+#: inc/customizer.php:176
+msgid "Minutes translation"
+msgstr ""
+
+#: inc/customizer.php:198
+msgid "Seconds translation"
+msgstr ""
+
+#: inc/customizer.php:228
+msgid "Section Title"
+msgstr ""
+
+#: inc/customizer.php:229
+msgid "Default is Events"
+msgstr ""
+
+#: inc/customizer.php:250
+msgid "Event 1 title"
+msgstr ""
+
+#: inc/customizer.php:271
+msgid "Event 1 text"
+msgstr ""
+
+#: inc/customizer.php:292
+msgid "Event 2 title"
+msgstr ""
+
+#: inc/customizer.php:313
+msgid "Event 2 text"
+msgstr ""
+
+#: inc/customizer.php:334
+msgid "Event 3 title"
+msgstr ""
+
+#: inc/customizer.php:355
+msgid "Event 3 text"
+msgstr ""
+
+#: inc/customizer.php:376
+msgid "Event 4 title"
+msgstr ""
+
+#: inc/customizer.php:397
+msgid "Event 4 text"
+msgstr ""
+
+#: inc/customizer.php:418
+msgid "Event 5 title"
+msgstr ""
+
+#: inc/customizer.php:439
+msgid "Event 5 text"
+msgstr ""
+
+#: inc/customizer.php:452
+msgid "Social Media Icons"
+msgstr ""
+
+#: inc/customizer.php:471
+msgid "Twitter URL"
+msgstr ""
+
+#: inc/customizer.php:493
+msgid "Facebook URL"
+msgstr ""
+
+#: inc/customizer.php:514
+msgid "Instagram URL"
+msgstr ""
+
+#: inc/customizer.php:534
+msgid "Snapchat URL"
+msgstr ""
+
+#: inc/customizer.php:556
+msgid "YouTube URL"
+msgstr ""
+
+#: inc/customizer.php:578
+msgid "Google+ URL"
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:45 inc/template-tags.php:51
+msgid ", "
+msgstr ""
+
+#: inc/template-tags.php:47
+#, php-format
+msgid "Posted in %1$s"
+msgstr ""
+
+#: inc/template-tags.php:53
+#, php-format
+msgid " &middot; Tagged %1$s"
+msgstr ""
+
+#: inc/template-tags.php:59
+msgid " &middot; Leave a comment"
+msgstr ""
+
+#: inc/template-tags.php:59
+msgid " &middot; 1 Comment"
+msgstr ""
+
+#: inc/template-tags.php:59
+msgid " &middot; % Comments"
+msgstr ""
+
+#. translators: %s: Name of current post
+#: inc/template-tags.php:66 template-parts/content-page.php:33
+#, php-format
+msgid "Edit %s"
+msgstr ""
+
+#: search.php:19
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#: template-parts/content-none.php:21
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:25
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:31
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: template-parts/content-page.php:22 template-parts/content.php:44
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/content.php:40
+msgid "Continue reading"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Newlyweds"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://glam.ink/downloads/newlyweds-free-wedding-theme/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Elegant WordPress theme, perfect for wedding websites and blogs. It includes "
+"a customizable front page with countdown and wedding events. Check out the "
+"complete theme demo at https://demo.glam.ink/newlyweds/"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Glam Ink"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://glam.ink/"
+msgstr ""
